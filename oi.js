@@ -1,0 +1,6 @@
+if (condição) {
+    
+} else {
+    aa
+    
+}
